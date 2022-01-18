@@ -1,0 +1,28 @@
+{
+    "SKILL_NAME": "the Dabble Lab audio player template",
+    "ABOUT": [
+        "Esta é uma habilidade de streaming de áudio para a estação RFM. Para continuar ouvindo, diga: continue ou diga: pare para parar de ouvir."
+    ],
+    "ABOUT_REPROMPT":[
+        "Para continuar ouvindo, diga: continue ou diga: pare para parar de ouvir."
+    ],
+    "HELP": [
+        "Esta habilidade reproduz um fluxo de áudio quando é iniciada. Não possui nenhuma funcionalidade adicional."
+    ],
+    "HELP_REPROMPT": [
+        "Esta habilidade reproduz um fluxo de áudio quando é iniciada. Não possui nenhuma funcionalidade adicional."
+    ],
+    "FALLBACK": [
+        "Desculpe, não entendi isso. Para iniciar a transmissão diga: play."
+    ],
+    "FALLBACK_REPROMPT": [
+        "Desculpe, não entendi isso. Para iniciar a transmissão diga: play."
+    ],
+    "UNHANDLED":[
+        "Este recurso ainda não é compatível.",
+        "Desculpe, no momento não oferecemos suporte a esse recurso."
+    ],
+    "DEVICE_NOT_SUPPORTED" : "Desculpe, esta habilidade não é compatível com este dispositivo",
+    "ERROR": "Desculpe, não foi possível processar sua última solicitação. Pode dizer de novo?",
+    "ERROR_REPROMPT": "Pode dizer de novo?"
+}

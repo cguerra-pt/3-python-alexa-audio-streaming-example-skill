@@ -38,7 +38,7 @@ Instructions to modify the code to play the stream of your choice:
 STREAMS = [
   {
     "token": '1',
-    "url": 'https://www.radiokrishna.com/RKC-Terni-HQ.m3u',
+    "url": 'https://25633.live.streamtheworld.com/RFMAAC.aac',
     "metadata": {
       "title": 'Dabble Radio',
       "subtitle": 'A subtitle for dabble radio',
