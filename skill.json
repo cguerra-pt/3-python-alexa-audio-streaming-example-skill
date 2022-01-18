@@ -101,8 +101,8 @@
           ],
           "name": "Template Three - Radio Streaming Skill Example",
           "description": "Sample Full Description",
-          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
-          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
+          "smallIconUri": "file://assets/images/pt-BR_smallIconUri.png",
+          "largeIconUri": "file://assets/images/pt-BR_largeIconUri.png"
         }
       },
       "automaticDistribution": {
